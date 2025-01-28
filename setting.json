@@ -1,0 +1,11 @@
+{
+    "height":80,
+    "width":200,
+    "viscosity":0.007,
+    "u0":0.1,
+    "total_steps":3000,
+    "skip_frames":20,
+    "barrier":[
+        {"start_row": 35, "end_row": 45, "col": 150}
+    ]
+}
